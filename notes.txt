@@ -1,0 +1,12 @@
+
+Yuèqiú wéiqí
+月球围棋
+
+Default_data_line = 
+" ttotto7788 (Park Sang Kuen) [DSHN]  4d  Knight (kim ilhwan) [DSHN]  9p  W+8.0  8/25/2001  3  249 \n"
+
+
+ jung105 (jung105) [DSHN]  8/14/2001  Kim_ilwhan (Kim Ill Whan) [DSHN]  4d  9p  205 
+
+
+yueqiuweiqilunargo@gmail.com
