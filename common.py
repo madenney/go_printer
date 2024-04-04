@@ -46,7 +46,7 @@ def start_recording(file_name,coords, audio_source):
         '-i',audio_source,'-vcodec','libx264', \
         '-crf', '0','-x264-params','keyint=10',file_name]
 
-    # print(" ".join(cmd))
+    #print(" ".join(cmd))
     return subprocess.Popen(cmd, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 
 def end_recording(process: subprocess.Popen):
